@@ -1,1 +1,1 @@
-Creating a new branch is quick and example.
+Switched to a new branch 'dev'
